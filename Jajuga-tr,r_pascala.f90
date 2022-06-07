@@ -1,6 +1,6 @@
 PROGRAM Jajuga_tr_pascala
 
-    !Kacper Jajuga, grupa: D2, numer indeksu: 150678, kierunek: informatyka (PUW), rok I, semestr II
+    !Kacper Jajuga, kierunek: informatyka, rok I, semestr II
 
   INTEGER n, f, i, j, k
   
